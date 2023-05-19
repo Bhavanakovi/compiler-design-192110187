@@ -1,0 +1,11 @@
+G:\lex>flex dob.l
+
+G:\lex>gcc lex.yy.c
+
+G:\lex>a.exe
+26/07/1995
+Valid DoB
+
+
+13\2\96
+Invalid DoB
